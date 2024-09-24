@@ -1,0 +1,8 @@
+*
+!.gitignore
+!wezterm
+!wezterm/*
+!fish
+!fish/*
+!omp
+!omp/*
